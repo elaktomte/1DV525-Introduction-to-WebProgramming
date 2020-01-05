@@ -1,0 +1,8 @@
+/* Creator */
+Name: Christian Fagerholm
+Contact: cf222jf@student.lnu.se
+
+/* Thanks to */
+Björne Laanemäe
+Matus Maruna
+Amelie Löwe
